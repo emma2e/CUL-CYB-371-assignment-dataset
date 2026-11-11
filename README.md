@@ -13,6 +13,6 @@ A Python script that generates a fictional dataset of 200 students.
 
 ## Usage
 ```bash
-python generate_dataset.py
+python student_dataset.py
 ```
 This creates `students.csv`. All data is fictional.
